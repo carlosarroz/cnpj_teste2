@@ -1,0 +1,10 @@
+C:\Users\Carlos Henrique\teste2cnpj\bin\Debug\netcoreapp2.0\teste2cnpj.deps.json
+C:\Users\Carlos Henrique\teste2cnpj\bin\Debug\netcoreapp2.0\teste2cnpj.runtimeconfig.json
+C:\Users\Carlos Henrique\teste2cnpj\bin\Debug\netcoreapp2.0\teste2cnpj.runtimeconfig.dev.json
+C:\Users\Carlos Henrique\teste2cnpj\bin\Debug\netcoreapp2.0\teste2cnpj.dll
+C:\Users\Carlos Henrique\teste2cnpj\bin\Debug\netcoreapp2.0\teste2cnpj.pdb
+C:\Users\Carlos Henrique\teste2cnpj\obj\Debug\netcoreapp2.0\teste2cnpj.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Henrique\teste2cnpj\obj\Debug\netcoreapp2.0\teste2cnpj.AssemblyInfoInputs.cache
+C:\Users\Carlos Henrique\teste2cnpj\obj\Debug\netcoreapp2.0\teste2cnpj.AssemblyInfo.cs
+C:\Users\Carlos Henrique\teste2cnpj\obj\Debug\netcoreapp2.0\teste2cnpj.dll
+C:\Users\Carlos Henrique\teste2cnpj\obj\Debug\netcoreapp2.0\teste2cnpj.pdb
